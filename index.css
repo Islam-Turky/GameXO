@@ -15,8 +15,6 @@ body {
     gap: 20px;
     justify-content: center;
     align-items: center;
-    border: 10px white solid;
-    border-radius: 50px;
 }
 
 #one, #two, #three {
