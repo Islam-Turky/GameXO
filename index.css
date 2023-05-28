@@ -9,7 +9,6 @@ body {
 }
 
 #main {
-    width: 35vw;
     height: 90vh;
     margin: auto;
     display: flex;
